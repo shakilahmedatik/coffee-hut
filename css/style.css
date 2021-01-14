@@ -1,0 +1,83 @@
+.navbar-brand img {
+  width: 200px;
+}
+
+.main-heading {
+  color: #00917c;
+}
+.heading-second {
+  color: #433520;
+}
+
+.btn-custom {
+  background-color: #433520;
+  color: white;
+}
+
+.bg-color {
+  background-color: #fdf5ea;
+}
+
+.cart img {
+  width: 25px;
+}
+
+.panda-card {
+  border: 0;
+  overflow: hidden;
+  border-radius: 25px;
+}
+
+.panda-card-footer {
+  background-color: white;
+  border: 0;
+}
+.card-image {
+  background-color: #dfe0df;
+  border-radius: 25px;
+  margin: 0 auto;
+  width: 90%;
+}
+
+.box-img img {
+  width: 50px;
+}
+
+.small-card {
+  border-radius: 13px;
+}
+.small-card h4 {
+  color: rgb(15, 15, 75);
+}
+
+.panda-slide .carousel-item {
+  background-color: #fceae8;
+  border-radius: 1em;
+}
+
+.subscribe {
+  padding: 4%;
+}
+h2,
+h6 {
+  color: #433520;
+}
+.form-subscribe {
+  max-width: 600px;
+  margin: 0 auto;
+}
+.form-subscribe .form-control {
+  background-color: hsla(0, 0%, 100%, 0.8);
+  padding-left: 24px;
+  padding-right: 24px;
+  letter-spacing: 1px;
+  border: none;
+  border-top-left-radius: 36px;
+  border-bottom-left-radius: 36px;
+}
+
+.form-subscribe .btn {
+  border-top-right-radius: 36px;
+  border-bottom-right-radius: 36px;
+  height: 46.5px;
+}
